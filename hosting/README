@@ -1,0 +1,1 @@
+curl -d "[ 1.0, 90.0, 62.0, 12.0, 43.0, 27.2, 0.58, 24.0]" -H "Content-Type: application/json" -X POST http://localhost:8080/evaluate
